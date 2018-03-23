@@ -20,5 +20,6 @@ public class MyClass {
         MyClass MyObj=new MyClass();
         MyObj.myFun(1,2);
         System.out.println("hello github");
+        System.out.println("hello macbook");
     }
 }
