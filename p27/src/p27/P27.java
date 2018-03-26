@@ -17,9 +17,9 @@ public class P27 {
     public static void main(String[] args) {
         // TODO code application logic here
         final int PRICE =30;
-        System.out.println(PRICE);
+        System.out.println(PRICE);//这句课本没有
         final double PI=3.141592654;
-        System.out.println(PI);
+        System.out.println(PI);//这句课本没有
     }
     
 }
